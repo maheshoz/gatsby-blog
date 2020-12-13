@@ -8,3 +8,6 @@ import "./src/style.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism-okaidia.css"
+
+// global styles 
+import "./src/styles/global.css"
